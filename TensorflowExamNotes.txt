@@ -10,3 +10,4 @@ Accept any English IDs.
 Just use your personal Email not your @uni 
 Important to see: https://app.trueability.com/google-certificates/tensorflow-developer 
 We aren't allowed to disclose much but, mainly they cover, "classical ML" like neural networks and regression problems, "computer vision", "NLP", "time series" , no extremely advanced stuff so don't worry
+After you can take: Machine Learning on Google cloud 
