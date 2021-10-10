@@ -1,0 +1,12 @@
+Find all in candidate Handbook 
+There are 5 sections [NLP, CV, TS, Regression, etc]
+The exam is 5 hrs 
+Use Pycharm or Colab 
+No advanced Topics just essentials Topics and introduction into every Topic 
+Recommended Course: https://www.coursera.org/professional-certificates/tensorflow-in-practice 
+You pass higher than 85% 
+This is recommended, too: https://github.com/MennaEwas/dlaicourse 
+Accept any English IDs. 
+Just use your personal Email not your @uni 
+Important to see: https://app.trueability.com/google-certificates/tensorflow-developer 
+We aren't allowed to disclose much but, mainly they cover, "classical ML" like neural networks and regression problems, "computer vision", "NLP", "time series" , no extremely advanced stuff so don't worry
